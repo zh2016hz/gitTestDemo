@@ -3,6 +3,7 @@ package com.example.xn069392.gittest;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -27,7 +28,10 @@ public class MainActivity extends AppCompatActivity {
         /*
         * ssssssssssssssssssssssskmaslkjsadjasoidjasoj
         * */
-String  s = new String("sss");
+        String s = new String("sss");
+        boolean ss = s.equals("SS");
+        Toast.makeText(this, "ss ", Toast.LENGTH_LONG).show();
+
 
     }
 }
