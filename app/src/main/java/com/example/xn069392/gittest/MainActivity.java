@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         TextView textView141 = new TextView(this);
         TextView textView14git2= new TextView(this);
         TextView textView1421 = new TextView(this);
-
+ TextView textView14111= new TextView(this);
+        TextView textView14git222= new TextView(this);
+        TextView textView143321 = new TextView(this);
     }
 }
