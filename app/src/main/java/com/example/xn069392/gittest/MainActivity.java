@@ -1,7 +1,7 @@
 package com.example.xn069392.gittest;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
@@ -23,9 +23,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView14111 = new TextView(this);
         TextView textView14git222 = new TextView(this);
         TextView textView143321 = new TextView(this);
-        /*
-        * ssssssssssssssssssssssskmaslkjsadjasoidjasoj
-        * */
-String  s = new String("sss");
+
+
     }
 }
