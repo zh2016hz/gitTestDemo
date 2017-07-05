@@ -26,6 +26,6 @@ public class MainActivity extends AppCompatActivity {
         /*
         * ssssssssssssssssssssssskmaslkjsadjasoidjasoj
         * */
-
+String  s = new String("sss");
     }
 }
