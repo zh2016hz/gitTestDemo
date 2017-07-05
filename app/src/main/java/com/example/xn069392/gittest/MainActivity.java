@@ -12,6 +12,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         TextView textView = new TextView(this);
         TextView textView1 = new TextView(this);
+        TextView textView2 = new TextView(this);
+        TextView textView3 = new TextView(this);
+        TextView textView14 = new TextView(this);
 
     }
 }
