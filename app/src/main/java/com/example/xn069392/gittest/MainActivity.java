@@ -31,7 +31,10 @@ public class MainActivity extends AppCompatActivity {
         String s = new String("sss");
         boolean ss = s.equals("SS");
         Toast.makeText(this, "ss ", Toast.LENGTH_LONG).show();
-
+        /*
+        * nimabi gitgit
+        *
+        * */
 
     }
 }
