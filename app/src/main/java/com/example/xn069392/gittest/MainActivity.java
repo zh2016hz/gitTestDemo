@@ -35,7 +35,41 @@ public class MainActivity extends AppCompatActivity {
         * nimabi gitgit
         *
         * */
-String  sz = new String("sss");
-
+        String sz = new String("sss");
+/*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+* */
     }
 }
